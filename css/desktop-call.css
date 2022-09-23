@@ -1,0 +1,257 @@
+/* screen - desktop-call */
+
+.desktop-call {
+  align-items: center;
+  background-color: var(--green--100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1439px;
+}
+
+.desktop-call .overlap-group {
+  height: 435px;
+  margin-left: 1.0px;
+  margin-top: -130px;
+  position: relative;
+  width: 1440px;
+  z-index: 3;
+}
+
+.desktop-call .line-7 {
+  height: 36px;
+  left: 1265px;
+  position: absolute;
+  top: 164px;
+  width: 36px;
+}
+
+.desktop-call .line-8 {
+  height: 36px;
+  left: 1263px;
+  position: absolute;
+  top: 164px;
+  width: 36px;
+}
+
+.desktop-call .graphic {
+  height: 305px;
+  left: 0;
+  position: absolute;
+  top: 130px;
+  width: 1439px;
+}
+
+.desktop-call .rectangle-58 {
+  background-color: var(--weiss--100);
+  border: 1px none;
+  height: 95px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1439px;
+  z-index: 5;
+}
+
+.desktop-call .frame-15::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-call .frame-15 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 498px;
+  left: 0;
+  overflow-y: scroll;
+  padding: 0px 120px;
+  position: fixed;
+  top: 25px;
+  width: 1439px;
+  z-index: 6;
+}
+
+.desktop-call .logo-horizontal {
+  height: 57.04px;
+  min-width: 185px;
+}
+
+.desktop-call .frame-14 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  gap: 34px;
+  justify-content: flex-end;
+}
+
+.desktop-call .link-startseite {
+  border: 1px none;
+  height: 29px;
+  margin-left: -66.00px;
+  min-width: 62px;
+  position: relative;
+}
+
+.desktop-call .startseite {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-call .link {
+  border: 1px none;
+  height: 29px;
+  min-width: 44px;
+  position: relative;
+}
+
+.desktop-call .kche {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-call .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-call .bad {
+  border: 1px none;
+  cursor: pointer;
+  height: 29px;
+  min-width: 27px;
+  position: relative;
+}
+
+.desktop-call .bad-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-call .link-uber-uns {
+  border: 1px none;
+  height: 29px;
+  min-width: 60px;
+  position: relative;
+}
+
+.desktop-call .ber-uns {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-call .link-kontakt {
+  border: 1px none;
+  height: 29px;
+  min-width: 52px;
+  position: relative;
+}
+
+.desktop-call .kontakt {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-call .button {
+  align-items: flex-start;
+  background-color: var(--green--100);
+  border: 1px none;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  padding: 4px 18px;
+  width: fit-content;
+}
+
+.desktop-call .ruf-uns-an {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-call .group-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 66px;
+  margin-right: 71.0px;
+  margin-top: 85px;
+  min-width: 428px;
+  z-index: 2;
+}
+
+.desktop-call .vector {
+  height: 63px;
+  width: 64px;
+}
+
+.desktop-call .phone {
+  letter-spacing: 0;
+  line-height: 54px;
+  margin-left: 26px;
+  min-height: 66px;
+  width: 336px;
+}
+
+.desktop-call .ist-container {
+  align-items: flex-start;
+  display: flex;
+  height: 181px;
+  margin-top: 64px;
+  min-width: 789px;
+  z-index: 1;
+}
+
+.desktop-call .persnlich-ist-am-besten {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 181px;
+  width: 279px;
+}
+
+.desktop-call .die-kche-ist-heute {
+  color: var(--weiss--100);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 31px;
+  min-height: 138px;
+  width: 479px;
+}
+
+.desktop-call .graphic-1 {
+  height: 285px;
+  margin-top: 38px;
+  width: 1439px;
+  z-index: 4;
+}

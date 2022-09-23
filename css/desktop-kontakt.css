@@ -1,0 +1,464 @@
+/* screen - desktop-kontakt */
+
+.desktop-kontakt {
+  align-items: center;
+  background-color: var(--weiss--100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2210px;
+  overflow: hidden;
+  width: 1439px;
+}
+
+.desktop-kontakt .overlap-group2 {
+  height: 916px;
+  margin-left: 1.0px;
+  margin-top: -130px;
+  position: relative;
+  width: 1440px;
+  z-index: 3;
+}
+
+.desktop-kontakt .rectangle-46 {
+  height: 674px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 242px;
+  width: 1199px;
+}
+
+.desktop-kontakt .navigation {
+  background-image: url(../img/graphic-5@1x.svg);
+  background-size: 100% 100%;
+  height: 435px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-kontakt .rectangle-58 {
+  background-color: var(--weiss--100);
+  border: 1px none;
+  height: 95px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1439px;
+  z-index: 5;
+}
+
+.desktop-kontakt .frame-15::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-kontakt .frame-15 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 498px;
+  left: 0;
+  overflow-y: scroll;
+  padding: 0px 120px;
+  position: fixed;
+  top: 25px;
+  width: 1439px;
+  z-index: 6;
+}
+
+.desktop-kontakt .logo-horizontal {
+  height: 57.04px;
+  min-width: 185px;
+}
+
+.desktop-kontakt .frame-14 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  gap: 34px;
+  justify-content: flex-end;
+}
+
+.desktop-kontakt .link-startseite {
+  border: 1px none;
+  height: 29px;
+  margin-left: -66.00px;
+  min-width: 62px;
+  position: relative;
+}
+
+.desktop-kontakt .startseite {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kontakt .link {
+  border: 1px none;
+  height: 29px;
+  min-width: 44px;
+  position: relative;
+}
+
+.desktop-kontakt .kche {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kontakt .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kontakt .bad {
+  border: 1px none;
+  cursor: pointer;
+  height: 29px;
+  min-width: 27px;
+  position: relative;
+}
+
+.desktop-kontakt .bad-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kontakt .link-uber-uns {
+  border: 1px none;
+  height: 29px;
+  min-width: 60px;
+  position: relative;
+}
+
+.desktop-kontakt .ber-uns {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kontakt .link-kontakt {
+  border: 1px none;
+  height: 29px;
+  min-width: 52px;
+  position: relative;
+}
+
+.desktop-kontakt .kontakt-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kontakt .button {
+  align-items: flex-start;
+  background-color: var(--green--100);
+  border: 1px none;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  padding: 4px 18px;
+  width: fit-content;
+}
+
+.desktop-kontakt .ruf-uns-an {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-kontakt .overlap-group4 {
+  height: 181px;
+  margin-left: 6.0px;
+  margin-top: 93px;
+  position: relative;
+  width: 999px;
+  z-index: 1;
+}
+
+.desktop-kontakt .intro {
+  align-items: flex-start;
+  display: flex;
+  height: 181px;
+  left: 0;
+  min-width: 999px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-kontakt .persnlich-ist-am-besten {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 181px;
+  width: 279px;
+}
+
+.desktop-kontakt .die-kche-ist-heute {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 30px;
+  min-height: 163px;
+  width: 686px;
+}
+
+.desktop-kontakt .phone {
+  left: 404px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 114px;
+  width: 336px;
+}
+
+.desktop-kontakt .vector {
+  height: 63px;
+  left: 314px;
+  position: absolute;
+  top: 115px;
+  width: 64px;
+}
+
+.desktop-kontakt .intro-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 111px;
+  margin-left: 6.0px;
+  margin-top: 81px;
+  min-width: 999px;
+  z-index: 2;
+}
+
+.desktop-kontakt .anreise {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 111px;
+  width: 277px;
+}
+
+.desktop-kontakt .die-kche-ist-heute-1 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 32px;
+  min-height: 111px;
+  width: 686px;
+}
+
+.desktop-kontakt .overlap-group3 {
+  align-self: flex-start;
+  height: 839px;
+  margin-left: -3px;
+  margin-top: 131px;
+  position: relative;
+  width: 1462px;
+  z-index: 4;
+}
+
+.desktop-kontakt .overlap-group {
+  align-items: flex-end;
+  background-color: var(--weiss--100);
+  display: flex;
+  height: 411px;
+  left: 3px;
+  min-width: 1439px;
+  padding: 45px 223px;
+  position: absolute;
+  top: 428px;
+}
+
+.desktop-kontakt .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 265px;
+  min-width: 512px;
+}
+
+.desktop-kontakt .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 265px;
+  width: 215px;
+}
+
+.desktop-kontakt .kontakt {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 40px;
+  width: 141px;
+}
+
+.desktop-kontakt .mail-infowyeragch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 24px;
+  min-height: 104px;
+  width: 215px;
+}
+
+.desktop-kontakt .copyright {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 57px;
+  min-height: 40px;
+  width: 215px;
+}
+
+.desktop-kontakt .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 87px;
+  min-height: 265px;
+  width: 210px;
+}
+
+.desktop-kontakt .adresse {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-right: 10.0px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-kontakt .gebr-wyer-ag-seewji {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 5.0px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-kontakt .webdesign-by-ddqzch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 210px;
+}
+
+.desktop-kontakt .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 103px;
+  min-height: 265px;
+  width: 205px;
+}
+
+.desktop-kontakt .ffnungszeiten {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-kontakt .montag-freitag-900 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-kontakt .impressum {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 101px;
+}
+
+.desktop-kontakt .span1 {
+  text-decoration: underline;
+}
+
+.desktop-kontakt .datenschutz {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 40px;
+  text-decoration: underline;
+  width: 101px;
+}
+
+.desktop-kontakt .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--weiss--100);
+  display: flex;
+  height: 411px;
+  justify-content: flex-end;
+  left: 3px;
+  min-width: 1439px;
+  padding: 45px 221.8px;
+  position: absolute;
+  top: 428px;
+}
+
+.desktop-kontakt .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 261px;
+  width: 114px;
+}
+
+.desktop-kontakt .vector-1 {
+  align-self: flex-end;
+  height: 39px;
+  width: 39px;
+}
+
+.desktop-kontakt .datenschutz-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 182px;
+  min-height: 40px;
+  text-decoration: underline;
+  width: 101px;
+}
+
+.desktop-kontakt .group {
+  align-self: flex-start;
+  height: 39px;
+  margin-left: 21px;
+  margin-top: 60px;
+  width: 39px;
+}
+
+.desktop-kontakt .rectangle {
+  height: 430px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}

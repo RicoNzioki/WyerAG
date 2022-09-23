@@ -1,0 +1,736 @@
+/* screen - desktop-startseite */
+
+.desktop-startseite {
+  align-items: center;
+  background-color: var(--weiss--100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3548px;
+  overflow: hidden;
+  position: relative;
+  width: 1439px;
+}
+
+.desktop-startseite .overlap-group5 {
+  height: 786px;
+  margin-left: 1.0px;
+  position: relative;
+  width: 1440px;
+  z-index: 3;
+}
+
+.desktop-startseite .rectangle-46 {
+  height: 674px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 1199px;
+}
+
+.desktop-startseite .rectangle-47 {
+  background-color: var(--green--50);
+  border: 1px none;
+  height: 183px;
+  left: 192px;
+  position: absolute;
+  top: 575px;
+  width: 955px;
+}
+
+.desktop-startseite .verwhnt-das-oberwal {
+  left: 222px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 609px;
+  width: 883px;
+}
+
+.desktop-startseite .mask-group {
+  height: 325px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-startseite .rectangle-58 {
+  background-color: var(--weiss--100);
+  border: 1px none;
+  height: 95px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1439px;
+  z-index: 11;
+}
+
+.desktop-startseite .frame-15::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-startseite .frame-15 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 498px;
+  left: 0;
+  overflow-y: scroll;
+  padding: 0px 120px;
+  position: fixed;
+  top: 25px;
+  width: fit-content;
+  z-index: 12;
+}
+
+.desktop-startseite .logo-horizontal {
+  height: 57px;
+  min-width: 185px;
+}
+
+.desktop-startseite .frame-14 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 34px;
+  justify-content: center;
+  left: 735px;
+  position: absolute;
+  top: 11px;
+  width: 582px;
+}
+
+.desktop-startseite .link-startseite {
+  border: 1px none;
+  height: 29px;
+  min-width: 62px;
+  position: relative;
+}
+
+.desktop-startseite .startseite {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-startseite .link {
+  border: 1px none;
+  height: 29px;
+  min-width: 44px;
+  position: relative;
+}
+
+.desktop-startseite .kche {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-startseite .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-startseite .bad {
+  border: 1px none;
+  cursor: pointer;
+  height: 29px;
+  min-width: 27px;
+  position: relative;
+}
+
+.desktop-startseite .bad-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-startseite .link-uber-uns {
+  border: 1px none;
+  height: 29px;
+  min-width: 60px;
+  position: relative;
+}
+
+.desktop-startseite .ber-uns {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-startseite .link-kontakt {
+  border: 1px none;
+  height: 29px;
+  min-width: 52px;
+  position: relative;
+}
+
+.desktop-startseite .kontakt {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-startseite .button {
+  align-items: flex-start;
+  background-color: var(--green--100);
+  border: 1px none;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  padding: 4px 18px;
+  width: fit-content;
+}
+
+.desktop-startseite .ruf-uns-an {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-startseite .unser-angebot {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-left: 222px;
+  margin-top: 94px;
+  min-height: 70px;
+  width: 391px;
+  z-index: 4;
+}
+
+.desktop-startseite .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 103.0px;
+  margin-top: 1px;
+  min-width: 892px;
+  z-index: 5;
+}
+
+.desktop-startseite .rectangle-48 {
+  cursor: pointer;
+  height: 198px;
+  object-fit: cover;
+  width: 278px;
+}
+
+.desktop-startseite .rectangle-49 {
+  cursor: pointer;
+  height: 198px;
+  margin-left: 30px;
+  object-fit: cover;
+  width: 277px;
+}
+
+.desktop-startseite .rectangle-50 {
+  cursor: pointer;
+  height: 198px;
+  margin-left: 31px;
+  object-fit: cover;
+  width: 276px;
+}
+
+.desktop-startseite .headlinetext-fr-das-container {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  margin-right: 102.0px;
+  margin-top: 30px;
+  min-width: 893px;
+  z-index: 7;
+}
+
+.desktop-startseite .headlinetext-fr-das-kchenangebot-h3 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 69px;
+  width: 278px;
+}
+
+.desktop-startseite .headlinetext-fr-das-boden-h3 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 30px;
+  min-height: 69px;
+  width: 278px;
+}
+
+.desktop-startseite .headlinetext-fr-das-badezimmer-h3 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 29px;
+  min-height: 69px;
+  width: 278px;
+}
+
+.desktop-startseite .text-kche-amet-mini-container {
+  align-items: flex-start;
+  display: flex;
+  height: 151px;
+  margin-right: 102.0px;
+  margin-top: 11px;
+  min-width: 893px;
+  z-index: 8;
+}
+
+.desktop-startseite .text-kche-amet-mini-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 21px;
+  min-height: 151px;
+  width: 278px;
+}
+
+.desktop-startseite .span {
+  text-decoration: underline;
+}
+
+.desktop-startseite .text-kche-amet-mini-2 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 30px;
+  min-height: 151px;
+  width: 278px;
+}
+
+.desktop-startseite .text-kche-amet-mini-3 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 29px;
+  min-height: 151px;
+  width: 278px;
+}
+
+.desktop-startseite .der-partner-fr-wohnerlebnisse {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-right: 321.0px;
+  margin-top: 81px;
+  min-height: 58px;
+  width: 672px;
+  z-index: 9;
+}
+
+.desktop-startseite .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-top: 19px;
+  min-width: 995px;
+  z-index: 6;
+}
+
+.desktop-startseite .text-container {
+  height: 269px;
+  margin-top: 56.0px;
+  position: relative;
+  width: 380px;
+}
+
+.desktop-startseite .headline-unternehmen-text-headline-h3 {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.desktop-startseite .text-kche-amet-mini-4 {
+  color: transparent;
+  cursor: pointer;
+  font-family: var(--font-family-century_gothic-regular);
+  font-size: var(--font-size-l);
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 80px;
+  width: 380px;
+}
+
+.desktop-startseite .span1 {
+  color: var(--black--75);
+  font-family: var(--font-family-century_gothic-bold);
+  font-weight: 700;
+}
+
+.desktop-startseite .rectangle-51 {
+  cursor: pointer;
+  height: 417px;
+  margin-left: 29px;
+  width: 586px;
+}
+
+.desktop-startseite .overlap-group6 {
+  height: 462px;
+  margin-right: 87.0px;
+  margin-top: 91px;
+  position: relative;
+  width: 906px;
+  z-index: 10;
+}
+
+.desktop-startseite .prozess {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 462px;
+  position: absolute;
+  top: 0;
+  width: 906px;
+}
+
+.desktop-startseite .so-wirds-gemacht {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 56px;
+  width: 672px;
+}
+
+.desktop-startseite .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 392px;
+  margin-top: 14px;
+  min-width: 892px;
+}
+
+.desktop-startseite .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--black--15);
+  display: flex;
+  flex-direction: column;
+  min-height: 392px;
+  padding: 16px 15px;
+  width: 277px;
+}
+
+.desktop-startseite .gesprch {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 2px;
+  margin-top: 184px;
+  min-height: 40px;
+  width: 132px;
+}
+
+.desktop-startseite .text-kche-amet-mini {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-height: 136px;
+  width: 246px;
+}
+
+.desktop-startseite .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--black--15);
+  display: flex;
+  flex-direction: column;
+  margin-left: 31px;
+  min-height: 392px;
+  padding: 16px 15px;
+  width: 277px;
+}
+
+.desktop-startseite .plannung {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 2px;
+  margin-top: 184px;
+  min-height: 40px;
+  width: 228px;
+}
+
+.desktop-startseite .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--black--15);
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  min-height: 392px;
+  padding: 16px 15px;
+  width: 277px;
+}
+
+.desktop-startseite .ausfhrung {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 2px;
+  margin-top: 184px;
+  min-height: 40px;
+  width: 132px;
+}
+
+.desktop-startseite .frame {
+  height: 124px;
+  left: 72px;
+  position: absolute;
+  top: 112px;
+  width: 134px;
+}
+
+.desktop-startseite .frame-1 {
+  height: 133px;
+  left: 385px;
+  position: absolute;
+  top: 112px;
+  width: 127px;
+}
+
+.desktop-startseite .frame-2 {
+  height: 124px;
+  left: 694px;
+  position: absolute;
+  top: 112px;
+  width: 103px;
+}
+
+.desktop-startseite .call-to-action {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 7.0px;
+  margin-top: 144px;
+  min-width: 1446px;
+  z-index: 1;
+}
+
+.desktop-startseite .overlap-group {
+  height: 433px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-startseite .vector {
+  height: 341px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 1440px;
+}
+
+.desktop-startseite .rectangle-7 {
+  background-color: var(--green--100);
+  border: 1px none;
+  height: 184px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-startseite .rufen-sie-uns-doch-a {
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 48px;
+  width: 955px;
+}
+
+.desktop-startseite .phone {
+  left: 315px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 241px;
+  width: 336px;
+}
+
+.desktop-startseite .per-telefon-gehts-am-einfachsten {
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 181px;
+  width: 578px;
+}
+
+.desktop-startseite .vector-1 {
+  height: 63px;
+  left: 226px;
+  position: absolute;
+  top: 239px;
+  width: 64px;
+}
+
+.desktop-startseite .overlap-group7 {
+  align-self: flex-start;
+  height: 411px;
+  position: relative;
+  width: 1459px;
+  z-index: 2;
+}
+
+.desktop-startseite .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--weiss--100);
+  display: flex;
+  height: 411px;
+  left: 0;
+  min-width: 1439px;
+  padding: 45px 223px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-startseite .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 265px;
+  min-width: 512px;
+}
+
+.desktop-startseite .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 265px;
+  width: 215px;
+}
+
+.desktop-startseite .kontakt-1 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 40px;
+  width: 141px;
+}
+
+.desktop-startseite .mail-infowyeragch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 24px;
+  min-height: 104px;
+  width: 215px;
+}
+
+.desktop-startseite .copyright {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 57px;
+  min-height: 40px;
+  width: 215px;
+}
+
+.desktop-startseite .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 87px;
+  min-height: 265px;
+  width: 210px;
+}
+
+.desktop-startseite .adresse {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-right: 10.0px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-startseite .gebr-wyer-ag-seewji {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 5.0px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-startseite .webdesign-by-ddqzch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 210px;
+}
+
+.desktop-startseite .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 103px;
+  min-height: 265px;
+  width: 205px;
+}
+
+.desktop-startseite .ffnungszeiten {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-startseite .montag-freitag-900 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-startseite .impressum {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 101px;
+}
+
+.desktop-startseite .datenschutz {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 40px;
+  text-decoration: underline;
+  width: 101px;
+}
+
+.desktop-startseite .group {
+  height: 39px;
+  left: 1178px;
+  position: absolute;
+  top: 107px;
+  width: 39px;
+}
+
+.desktop-startseite .vector-2 {
+  height: 39px;
+  left: 1118px;
+  position: absolute;
+  top: 107px;
+  width: 39px;
+}

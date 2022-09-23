@@ -1,0 +1,796 @@
+/* screen - desktop-kueche */
+
+.desktop-kueche {
+  align-items: center;
+  background-color: var(--weiss--100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3472px;
+  overflow: hidden;
+  width: 1439px;
+}
+
+.desktop-kueche .overlap-group8 {
+  height: 468px;
+  position: relative;
+  width: 1439px;
+  z-index: 5;
+}
+
+.desktop-kueche .istockphoto-901330538-612x612-1 {
+  height: 356px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 1198px;
+}
+
+.desktop-kueche .mask-group {
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1439px;
+}
+
+.desktop-kueche .rectangle-58 {
+  background-color: var(--weiss--100);
+  border: 1px none;
+  height: 95px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1439px;
+  z-index: 8;
+}
+
+.desktop-kueche .frame-15::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-kueche .frame-15 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 498px;
+  left: 0;
+  overflow-y: scroll;
+  padding: 0px 120px;
+  position: fixed;
+  top: 25px;
+  width: 1439px;
+  z-index: 9;
+}
+
+.desktop-kueche .logo-horizontal {
+  height: 57.04px;
+  min-width: 185px;
+}
+
+.desktop-kueche .frame-14 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  gap: 34px;
+  justify-content: flex-end;
+}
+
+.desktop-kueche .link-startseite {
+  border: 1px none;
+  height: 29px;
+  margin-left: -66.00px;
+  min-width: 62px;
+  position: relative;
+}
+
+.desktop-kueche .startseite {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kueche .link {
+  border: 1px none;
+  height: 29px;
+  min-width: 44px;
+  position: relative;
+}
+
+.desktop-kueche .kche {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kueche .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kueche .bad {
+  border: 1px none;
+  cursor: pointer;
+  height: 29px;
+  min-width: 27px;
+  position: relative;
+}
+
+.desktop-kueche .bad-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kueche .link-uber-uns {
+  border: 1px none;
+  height: 29px;
+  min-width: 60px;
+  position: relative;
+}
+
+.desktop-kueche .ber-uns {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kueche .link-kontakt {
+  border: 1px none;
+  height: 29px;
+  min-width: 52px;
+  position: relative;
+}
+
+.desktop-kueche .kontakt {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-kueche .button {
+  align-items: flex-start;
+  background-color: var(--green--100);
+  border: 1px none;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  padding: 4px 18px;
+  width: fit-content;
+}
+
+.desktop-kueche .ruf-uns-an {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-kueche .intro {
+  align-items: flex-start;
+  display: flex;
+  height: 328px;
+  margin-left: 6.0px;
+  margin-top: 53px;
+  min-width: 999px;
+  z-index: 4;
+}
+
+.desktop-kueche .neues-erleben {
+  letter-spacing: 0;
+  line-height: 54px;
+  min-height: 128px;
+  width: 279px;
+}
+
+.desktop-kueche .die-kche-ist-heute {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 30px;
+  min-height: 328px;
+  width: 686px;
+}
+
+.desktop-kueche .slider {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 3.0px;
+  min-width: 1200px;
+  z-index: 3;
+}
+
+.desktop-kueche .overlap-group3 {
+  height: 552px;
+  position: relative;
+  width: 1200px;
+}
+
+.desktop-kueche .carousel {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 552px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1200px;
+}
+
+.desktop-kueche .kitchen {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  width: fit-content;
+}
+
+.desktop-kueche .rectangle {
+  height: 552px;
+  min-width: 1200px;
+  object-fit: cover;
+}
+
+.desktop-kueche .frame-13 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 14px;
+  left: 513px;
+  position: absolute;
+  top: 503px;
+  width: fit-content;
+}
+
+.desktop-kueche .ellipse {
+  border: 3px solid;
+  border-color: var(--green--100);
+  border-radius: 8.5px;
+  height: 17px;
+  min-width: 17px;
+}
+
+.desktop-kueche .button-slider-left {
+  height: 69px;
+  left: 21px;
+  position: absolute;
+  top: 242px;
+  width: 59px;
+}
+
+.desktop-kueche .button-slider-right {
+  height: 69px;
+  left: 1115px;
+  position: absolute;
+  top: 255px;
+  width: 59px;
+}
+
+.desktop-kueche .overlap-group7 {
+  height: 371px;
+  margin-left: 5.0px;
+  margin-top: 107px;
+  position: relative;
+  width: 998px;
+  z-index: 2;
+}
+
+.desktop-kueche .partner {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 371px;
+  position: absolute;
+  top: 0;
+  width: 998px;
+}
+
+.desktop-kueche .unsere-partner-im-kchenbau {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 57px;
+  width: 672px;
+}
+
+.desktop-kueche .text-kche-amet-mini-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 6px;
+  min-height: 56px;
+  width: 687px;
+}
+
+.desktop-kueche .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 24px;
+  min-width: 993px;
+}
+
+.desktop-kueche .rectangle-1 {
+  background-color: var(--black--15);
+  border: 1px none;
+  height: 104px;
+  width: 174px;
+}
+
+.desktop-kueche .rectangle-4 {
+  background-color: var(--black--15);
+  border: 1px none;
+  height: 104px;
+  margin-left: 31px;
+  width: 174px;
+}
+
+.desktop-kueche .rectangle-4-1 {
+  background-color: var(--black--15);
+  border: 1px none;
+  height: 104px;
+  margin-left: 30px;
+  width: 174px;
+}
+
+.desktop-kueche .rectangle-4-2 {
+  background-color: var(--black--15);
+  border: 1px none;
+  height: 104px;
+  margin-left: 32px;
+  width: 174px;
+}
+
+.desktop-kueche .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 20px;
+  min-width: 994px;
+}
+
+.desktop-kueche .frame {
+  height: 39px;
+  left: 26px;
+  position: absolute;
+  top: 175px;
+  width: 124px;
+}
+
+.desktop-kueche .frame-1 {
+  height: 33px;
+  left: 241px;
+  position: absolute;
+  top: 179px;
+  width: 103px;
+}
+
+.desktop-kueche .frame-2 {
+  height: 32px;
+  left: 434px;
+  position: absolute;
+  top: 178px;
+  width: 124px;
+}
+
+.desktop-kueche .frame-3 {
+  height: 45px;
+  left: 641px;
+  position: absolute;
+  top: 172px;
+  width: 122px;
+}
+
+.desktop-kueche .frame-4 {
+  height: 29px;
+  left: 842px;
+  position: absolute;
+  top: 181px;
+  width: 129px;
+}
+
+.desktop-kueche .frame-5 {
+  height: 65px;
+  left: 51px;
+  position: absolute;
+  top: 287px;
+  width: 64px;
+}
+
+.desktop-kueche .frame-6 {
+  height: 32px;
+  left: 229px;
+  position: absolute;
+  top: 303px;
+  width: 126px;
+}
+
+.desktop-kueche .frame-7 {
+  height: 26px;
+  left: 428px;
+  position: absolute;
+  top: 306px;
+  width: 136px;
+}
+
+.desktop-kueche .frame-8 {
+  height: 62px;
+  left: 646px;
+  position: absolute;
+  top: 288px;
+  width: 112px;
+}
+
+.desktop-kueche .frame-9 {
+  height: 37px;
+  left: 848px;
+  position: absolute;
+  top: 300px;
+  width: 115px;
+}
+
+.desktop-kueche .overlap-group9 {
+  height: 467px;
+  margin-right: 87.0px;
+  margin-top: 105px;
+  position: relative;
+  width: 906px;
+  z-index: 1;
+}
+
+.desktop-kueche .prozess {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 467px;
+  position: absolute;
+  top: 0;
+  width: 906px;
+}
+
+.desktop-kueche .so-entsteht-einzigartiges {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 56px;
+  width: 672px;
+}
+
+.desktop-kueche .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 392px;
+  margin-top: 19px;
+  min-width: 892px;
+}
+
+.desktop-kueche .overlap-group {
+  align-items: flex-start;
+  background-color: var(--black--15);
+  display: flex;
+  flex-direction: column;
+  min-height: 392px;
+  padding: 16px 15px;
+  width: 277px;
+}
+
+.desktop-kueche .frame-10 {
+  align-self: center;
+  height: 124px;
+  margin-left: 1.0px;
+  margin-top: 18px;
+  width: 134px;
+}
+
+.desktop-kueche .gesprch {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 2px;
+  margin-top: 42px;
+  min-height: 40px;
+  width: 132px;
+}
+
+.desktop-kueche .text-kche-amet-mini {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-height: 136px;
+  width: 246px;
+}
+
+.desktop-kueche .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--black--15);
+  display: flex;
+  flex-direction: column;
+  margin-left: 31px;
+  min-height: 392px;
+  padding: 16px 15px;
+  width: 277px;
+}
+
+.desktop-kueche .frame-11 {
+  align-self: center;
+  height: 133px;
+  margin-left: 4.0px;
+  margin-top: 18px;
+  width: 127px;
+}
+
+.desktop-kueche .plannung {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 2px;
+  margin-top: 33px;
+  min-height: 40px;
+  width: 228px;
+}
+
+.desktop-kueche .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--black--15);
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  min-height: 392px;
+  padding: 16px 15px;
+  width: 277px;
+}
+
+.desktop-kueche .ausfhrung {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 2px;
+  margin-top: 184px;
+  min-height: 40px;
+  width: 132px;
+}
+
+.desktop-kueche .frame-12 {
+  height: 126px;
+  left: 686px;
+  position: absolute;
+  top: 116px;
+  width: 126px;
+}
+
+.desktop-kueche .call-to-action {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 7.0px;
+  margin-top: 150px;
+  min-width: 1446px;
+  z-index: 6;
+}
+
+.desktop-kueche .overlap-group4 {
+  height: 433px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-kueche .vector {
+  height: 341px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 1440px;
+}
+
+.desktop-kueche .rectangle-7 {
+  background-color: var(--green--100);
+  border: 1px none;
+  height: 184px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-kueche .rufen-sie-uns-doch-a {
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 48px;
+  width: 955px;
+}
+
+.desktop-kueche .phone {
+  left: 315px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 241px;
+  width: 336px;
+}
+
+.desktop-kueche .per-telefon-gehts-am-einfachsten {
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 181px;
+  width: 578px;
+}
+
+.desktop-kueche .vector-1 {
+  height: 63px;
+  left: 226px;
+  position: absolute;
+  top: 239px;
+  width: 64px;
+}
+
+.desktop-kueche .overlap-group6 {
+  align-self: flex-start;
+  height: 411px;
+  position: relative;
+  width: 1459px;
+  z-index: 7;
+}
+
+.desktop-kueche .overlap-group5 {
+  align-items: flex-end;
+  background-color: var(--weiss--100);
+  display: flex;
+  height: 411px;
+  left: 0;
+  min-width: 1439px;
+  padding: 45px 223px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-kueche .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 265px;
+  min-width: 512px;
+}
+
+.desktop-kueche .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 265px;
+  width: 215px;
+}
+
+.desktop-kueche .kontakt-1 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 40px;
+  width: 141px;
+}
+
+.desktop-kueche .mail-infowyeragch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 24px;
+  min-height: 104px;
+  width: 215px;
+}
+
+.desktop-kueche .copyright {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 57px;
+  min-height: 40px;
+  width: 215px;
+}
+
+.desktop-kueche .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 87px;
+  min-height: 265px;
+  width: 210px;
+}
+
+.desktop-kueche .adresse {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-right: 10.0px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-kueche .gebr-wyer-ag-seewji {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 5.0px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-kueche .webdesign-by-ddqzch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 210px;
+}
+
+.desktop-kueche .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 103px;
+  min-height: 265px;
+  width: 205px;
+}
+
+.desktop-kueche .ffnungszeiten {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-kueche .montag-freitag-900 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-kueche .impressum {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 101px;
+}
+
+.desktop-kueche .span1 {
+  text-decoration: underline;
+}
+
+.desktop-kueche .datenschutz {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 40px;
+  text-decoration: underline;
+  width: 101px;
+}
+
+.desktop-kueche .group {
+  height: 39px;
+  left: 1178px;
+  position: absolute;
+  top: 105px;
+  width: 39px;
+}
+
+.desktop-kueche .vector-2 {
+  height: 39px;
+  left: 1118px;
+  position: absolute;
+  top: 105px;
+  width: 39px;
+}

@@ -1,0 +1,612 @@
+/* screen - desktop-uber-uns */
+
+.desktop-uber-uns {
+  align-items: center;
+  background-color: var(--weiss--100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3581px;
+  overflow: hidden;
+  width: 1439px;
+}
+
+.desktop-uber-uns .overlap-group3 {
+  height: 916px;
+  margin-left: 1.0px;
+  margin-top: -130px;
+  position: relative;
+  width: 1440px;
+  z-index: 2;
+}
+
+.desktop-uber-uns .rectangle-46 {
+  height: 674px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 242px;
+  width: 1199px;
+}
+
+.desktop-uber-uns .navigation {
+  background-image: url(../img/graphic-4@1x.svg);
+  background-size: 100% 100%;
+  height: 435px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-uber-uns .rectangle-58 {
+  background-color: var(--weiss--100);
+  border: 1px none;
+  height: 95px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1439px;
+  z-index: 6;
+}
+
+.desktop-uber-uns .frame-15::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-uber-uns .frame-15 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 498px;
+  left: 0;
+  overflow-y: scroll;
+  padding: 0px 120px;
+  position: fixed;
+  top: 25px;
+  width: 1440px;
+  z-index: 7;
+}
+
+.desktop-uber-uns .logo-horizontal {
+  height: 57.04px;
+  min-width: 185px;
+}
+
+.desktop-uber-uns .frame-14 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  gap: 34px;
+  justify-content: flex-end;
+}
+
+.desktop-uber-uns .link-startseite {
+  border: 1px none;
+  height: 29px;
+  margin-left: -65.00px;
+  min-width: 62px;
+  position: relative;
+}
+
+.desktop-uber-uns .startseite {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-uber-uns .link {
+  border: 1px none;
+  height: 29px;
+  min-width: 44px;
+  position: relative;
+}
+
+.desktop-uber-uns .kche {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-uber-uns .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-uber-uns .bad {
+  border: 1px none;
+  cursor: pointer;
+  height: 29px;
+  min-width: 27px;
+  position: relative;
+}
+
+.desktop-uber-uns .bad-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-uber-uns .link-uber-uns {
+  border: 1px none;
+  height: 29px;
+  min-width: 60px;
+  position: relative;
+}
+
+.desktop-uber-uns .ber-uns {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-uber-uns .link-kontakt {
+  border: 1px none;
+  height: 29px;
+  min-width: 52px;
+  position: relative;
+}
+
+.desktop-uber-uns .kontakt {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-uber-uns .button {
+  align-items: flex-start;
+  background-color: var(--green--100);
+  border: 1px none;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  padding: 4px 18px;
+  width: fit-content;
+}
+
+.desktop-uber-uns .ruf-uns-an {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-uber-uns .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 81px;
+  min-height: 1219px;
+  width: 1199px;
+  z-index: 1;
+}
+
+.desktop-uber-uns .intro {
+  align-items: flex-start;
+  display: flex;
+  height: 128px;
+  margin-left: 6.0px;
+  min-width: 999px;
+}
+
+.desktop-uber-uns .wyer-ag {
+  letter-spacing: 0;
+  line-height: 54px;
+  min-height: 128px;
+  width: 279px;
+}
+
+.desktop-uber-uns .die-kche-ist-heute {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 30px;
+  min-height: 115px;
+  width: 686px;
+}
+
+.desktop-uber-uns .flex-row {
+  align-items: center;
+  display: flex;
+  margin-top: 31px;
+  min-width: 995px;
+}
+
+.desktop-uber-uns .text-container {
+  height: 288px;
+  margin-bottom: 1.0px;
+  position: relative;
+  width: 380px;
+}
+
+.desktop-uber-uns .headline-unternehmen-text-headline-h3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.desktop-uber-uns .text-kche-amet-mini-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 80px;
+  width: 380px;
+}
+
+.desktop-uber-uns .rectangle-5 {
+  height: 417px;
+  margin-left: 29px;
+  object-fit: cover;
+  width: 586px;
+}
+
+.desktop-uber-uns .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 119px;
+  min-width: 1199px;
+}
+
+.desktop-uber-uns .rectangle-52 {
+  height: 277px;
+  width: 277px;
+}
+
+.desktop-uber-uns .rectangle-5-1 {
+  height: 277px;
+  margin-left: 31px;
+  width: 277px;
+}
+
+.desktop-uber-uns .rectangle-55 {
+  height: 277px;
+  margin-left: 29px;
+  object-fit: cover;
+  width: 277px;
+}
+
+.desktop-uber-uns .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  margin-top: 25px;
+  min-width: 1199px;
+}
+
+.desktop-uber-uns .andreas-wyer-position {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 69px;
+  width: 277px;
+}
+
+.desktop-uber-uns .flex-row-item {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 31px;
+  min-height: 69px;
+  width: 277px;
+}
+
+.desktop-uber-uns .name {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 29px;
+  min-height: 69px;
+  width: 277px;
+}
+
+.desktop-uber-uns .text-kche-amet-mini-container {
+  align-items: flex-start;
+  display: flex;
+  height: 142px;
+  margin-top: 11px;
+  min-width: 1199px;
+}
+
+.desktop-uber-uns .text-kche-amet-mini-2 {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-height: 142px;
+  width: 277px;
+}
+
+.desktop-uber-uns .text-kche-amet-mini {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 31px;
+  min-height: 142px;
+  width: 277px;
+}
+
+.desktop-uber-uns .text-kche-amet-mini-3 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 29px;
+  min-height: 142px;
+  width: 277px;
+}
+
+.desktop-uber-uns .flex-row-3 {
+  align-items: center;
+  display: flex;
+  margin-top: 85px;
+  min-width: 995px;
+  z-index: 3;
+}
+
+.desktop-uber-uns .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.0px;
+  min-height: 288px;
+  width: 380px;
+}
+
+.desktop-uber-uns .unser-team-auf-platz {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 58px;
+  width: 344px;
+}
+
+.desktop-uber-uns .text-kche-amet-mini-4 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 22px;
+  min-height: 208px;
+  width: 380px;
+}
+
+.desktop-uber-uns .call-to-action {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 7.0px;
+  margin-top: 149px;
+  min-width: 1446px;
+  z-index: 4;
+}
+
+.desktop-uber-uns .overlap-group {
+  height: 433px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-uber-uns .vector {
+  height: 341px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 1440px;
+}
+
+.desktop-uber-uns .rectangle-7 {
+  background-color: var(--green--100);
+  border: 1px none;
+  height: 184px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-uber-uns .rufen-sie-uns-doch-a {
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 48px;
+  width: 955px;
+}
+
+.desktop-uber-uns .phone {
+  left: 315px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 241px;
+  width: 336px;
+}
+
+.desktop-uber-uns .per-telefon-gehts-am-einfachsten {
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 181px;
+  width: 578px;
+}
+
+.desktop-uber-uns .vector-1 {
+  height: 63px;
+  left: 226px;
+  position: absolute;
+  top: 239px;
+  width: 64px;
+}
+
+.desktop-uber-uns .footer {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  min-width: 1459px;
+  z-index: 5;
+}
+
+.desktop-uber-uns .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--weiss--100);
+  display: flex;
+  height: 411px;
+  justify-content: flex-end;
+  min-width: 1439px;
+  padding: 45px 221.8px;
+}
+
+.desktop-uber-uns .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 265px;
+  min-width: 512px;
+}
+
+.desktop-uber-uns .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 265px;
+  width: 215px;
+}
+
+.desktop-uber-uns .kontakt-1 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 40px;
+  width: 141px;
+}
+
+.desktop-uber-uns .mail-infowyeragch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 24px;
+  min-height: 104px;
+  width: 215px;
+}
+
+.desktop-uber-uns .copyright {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 57px;
+  min-height: 40px;
+  width: 215px;
+}
+
+.desktop-uber-uns .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 87px;
+  min-height: 265px;
+  width: 210px;
+}
+
+.desktop-uber-uns .adresse {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-right: 10.0px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-uber-uns .gebr-wyer-ag-seewji {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 5.0px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-uber-uns .webdesign-by-ddqzch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 210px;
+}
+
+.desktop-uber-uns .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 103px;
+  min-height: 265px;
+  width: 205px;
+}
+
+.desktop-uber-uns .ffnungszeiten {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-uber-uns .montag-freitag-900 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-uber-uns .impressum {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 101px;
+}
+
+.desktop-uber-uns .span1 {
+  text-decoration: underline;
+}
+
+.desktop-uber-uns .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 261px;
+  width: 114px;
+}
+
+.desktop-uber-uns .vector-2 {
+  align-self: flex-end;
+  height: 39px;
+  width: 39px;
+}
+
+.desktop-uber-uns .datenschutz {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 182px;
+  min-height: 40px;
+  text-decoration: underline;
+  width: 101px;
+}
+
+.desktop-uber-uns .group {
+  align-self: flex-start;
+  height: 39px;
+  margin-left: 21px;
+  margin-top: 60px;
+  width: 39px;
+}

@@ -1,0 +1,382 @@
+/* screen - desktop-impressum */
+
+.desktop-impressum {
+  align-items: flex-start;
+  background-color: var(--green--100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2094px;
+  overflow: hidden;
+  width: 1439px;
+}
+
+.desktop-impressum .overlap-group1 {
+  height: 435px;
+  margin-top: -130px;
+  position: relative;
+  width: 1440px;
+  z-index: 1;
+}
+
+.desktop-impressum .line {
+  height: 34px;
+  left: 1265px;
+  position: absolute;
+  top: 166px;
+  width: 34px;
+}
+
+.desktop-impressum .navigation {
+  background-image: url(../img/graphic@1x.svg);
+  background-size: 100% 100%;
+  height: 435px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-impressum .rectangle-58 {
+  background-color: var(--weiss--100);
+  border: 1px none;
+  height: 95px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1439px;
+  z-index: 4;
+}
+
+.desktop-impressum .frame-15::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-impressum .frame-15 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 498px;
+  left: 0;
+  overflow-y: scroll;
+  padding: 0px 120px;
+  position: fixed;
+  top: 24px;
+  width: 1439px;
+  z-index: 5;
+}
+
+.desktop-impressum .logo-horizontal {
+  height: 57.04px;
+  min-width: 185px;
+}
+
+.desktop-impressum .frame-14 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  gap: 34px;
+  justify-content: flex-end;
+}
+
+.desktop-impressum .link-startseite {
+  border: 1px none;
+  height: 29px;
+  margin-left: -66.00px;
+  min-width: 62px;
+  position: relative;
+}
+
+.desktop-impressum .startseite {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-impressum .link {
+  border: 1px none;
+  height: 29px;
+  min-width: 44px;
+  position: relative;
+}
+
+.desktop-impressum .kche {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-impressum .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-impressum .bad {
+  border: 1px none;
+  cursor: pointer;
+  height: 29px;
+  min-width: 27px;
+  position: relative;
+}
+
+.desktop-impressum .bad-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-impressum .link-uber-uns {
+  border: 1px none;
+  height: 29px;
+  min-width: 60px;
+  position: relative;
+}
+
+.desktop-impressum .ber-uns {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-impressum .link-kontakt {
+  border: 1px none;
+  height: 29px;
+  min-width: 52px;
+  position: relative;
+}
+
+.desktop-impressum .kontakt {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop-impressum .button {
+  align-items: flex-start;
+  background-color: var(--green--100);
+  border: 1px none;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  padding: 4px 18px;
+  width: fit-content;
+}
+
+.desktop-impressum .ruf-uns-an {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-impressum .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 1093px;
+  margin-right: 1.0px;
+  margin-top: 107px;
+  min-width: 996px;
+  z-index: 2;
+}
+
+.desktop-impressum .impressum {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 181px;
+  width: 279px;
+}
+
+.desktop-impressum .betreiber-dieser-web {
+  align-self: flex-end;
+  color: var(--weiss--100);
+  font-family: var(--font-family-undefined-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 30px;
+  min-height: 1085px;
+  width: 687px;
+}
+
+.desktop-impressum .footer {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 178px;
+  min-width: 1459px;
+  z-index: 3;
+}
+
+.desktop-impressum .overlap-group {
+  align-items: flex-end;
+  background-color: var(--weiss--100);
+  display: flex;
+  height: 411px;
+  justify-content: flex-end;
+  min-width: 1439px;
+  padding: 45px 221.8px;
+}
+
+.desktop-impressum .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 265px;
+  min-width: 512px;
+}
+
+.desktop-impressum .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 265px;
+  width: 215px;
+}
+
+.desktop-impressum .kontakt-1 {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 40px;
+  width: 141px;
+}
+
+.desktop-impressum .mail-infowyeragch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 24px;
+  min-height: 104px;
+  width: 215px;
+}
+
+.desktop-impressum .copyright {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 57px;
+  min-height: 40px;
+  width: 215px;
+}
+
+.desktop-impressum .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 87px;
+  min-height: 265px;
+  width: 210px;
+}
+
+.desktop-impressum .adresse {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-right: 10.0px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-impressum .gebr-wyer-ag-seewji {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 5.0px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-impressum .webdesign-by-ddqzch {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 210px;
+}
+
+.desktop-impressum .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 103px;
+  min-height: 265px;
+  width: 205px;
+}
+
+.desktop-impressum .ffnungszeiten {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 48px;
+  width: 190px;
+}
+
+.desktop-impressum .montag-freitag-900 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 205px;
+}
+
+.desktop-impressum .impressum-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 65px;
+  min-height: 40px;
+  width: 101px;
+}
+
+.desktop-impressum .span1 {
+  text-decoration: underline;
+}
+
+.desktop-impressum .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 261px;
+  width: 114px;
+}
+
+.desktop-impressum .vector {
+  align-self: flex-end;
+  height: 39px;
+  width: 39px;
+}
+
+.desktop-impressum .datenschutz {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 182px;
+  min-height: 40px;
+  text-decoration: underline;
+  width: 101px;
+}
+
+.desktop-impressum .group {
+  align-self: flex-start;
+  height: 39px;
+  margin-left: 21px;
+  margin-top: 60px;
+  width: 39px;
+}

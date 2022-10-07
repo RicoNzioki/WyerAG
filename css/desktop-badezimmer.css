@@ -169,7 +169,7 @@
   white-space: nowrap;
 }
 
-.desktop-badezimmer .button {
+#myButton {
   align-items: flex-start;
   background-color: var(--green--100);
   border: 1px none;
